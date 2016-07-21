@@ -1,2 +1,4 @@
-New file to create
-This is an edit from master
+
+This is the second test file
+This is an edit from feature
+
